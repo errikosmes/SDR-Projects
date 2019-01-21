@@ -7,5 +7,5 @@ cubic sdr: USB
 
 fldigi: USB, WEFAX576
 
-![Alt text](SDR-Projects/pictures/first test @8502KHz.png?raw=true "first test @8502KHz")
+![Alt text](pictures/first test @8502KHz.png?raw=true "first test @8502KHz")
 
