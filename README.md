@@ -11,3 +11,7 @@ fldigi: USB, WEFAX576
 **test audio file:** https://ia801701.us.archive.org/14/items/WEFAXFile1/WEFAX%20File%201.wav
 ![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/first%20test%20%408502KHz.png "first test @8502kHz")
 
+## Satellites
+### Antenna
+http://jcoppens.com/ant/qfh/calc.en.php
+![alt image](https://www.gregorystrike.com/assets/legacy/QHA_Wiring.png "wiring")
