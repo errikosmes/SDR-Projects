@@ -13,5 +13,6 @@ fldigi: USB, WEFAX576
 
 ## Satellites
 ### Antenna
-http://jcoppens.com/ant/qfh/calc.en.php
+Design calculator http://jcoppens.com/ant/qfh/calc.en.php
 ![alt image](https://www.gregorystrike.com/assets/legacy/QHA_Wiring.png "wiring")
+
