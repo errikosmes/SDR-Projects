@@ -9,8 +9,6 @@ Design calculator: http://jcoppens.com/ant/qfh/calc.en.php
 http://happysat.nl/Setup_Meteor/Setup.html
 
 ### Images
-![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/first%20test%20%408502KHz.png "first test @8502kHz" &s=200)
-
 
 
 ## Weather Fax
