@@ -9,6 +9,15 @@ Design calculator: http://jcoppens.com/ant/qfh/calc.en.php
 http://happysat.nl/Setup_Meteor/Setup.html
 
 ### Images
+#### METEOR M2 - LRPT 137.1 MHz QPSK 72k - false color RGB123
+##### crop
+![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/Meteor%20M2%20-%20LRPT%20137.1MHz%20QPSK%2072k%20-%20resized.jpg "crop")
+##### full pass
+![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/2019-8-19-10-8-56-256_123%20-%20resized.jpg "full pass")
+#### METEOR M2-2 - LRPT 137.1 MHz OQPSK 80k - 3,5-4,1 µm
+##### IR full pass
+![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/2019_08_17_LRPT_15-54-20.s_67-rectified%20-%20resized.jpg "IR full pass")
+
 
 
 ## Weather Fax
