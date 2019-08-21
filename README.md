@@ -17,6 +17,9 @@ http://happysat.nl/Setup_Meteor/Setup.html
 #### METEOR M2-2 - LRPT 137.1 MHz OQPSK 80k - 3,5-4,1 µm
 ##### IR full pass
 ![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/2019_08_17_LRPT_15-54-20.s_67-rectified%20-%20resized.jpg "IR full pass")
+#### METEOR M2-2 - LRPT 137.9 MHz OQPSK 80k - false color RGB123
+##### full pass
+![alt image](https://github.com/errikosmes/SDR-Projects/blob/master/pictures/2019-8-21-15-58-50-133-RGB123-rectified%20-%20resized.jpg "RGB123 full pass")
 
 
 
